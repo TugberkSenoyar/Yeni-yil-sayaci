@@ -1,0 +1,20 @@
+.zaman {
+    display: flex;
+    justify-content: space-between;
+    margin: 150px;
+    color: blueviolet;
+}
+.zaman div{
+    font-size: 50px;
+    color: darkblue;
+    margin: 15px;
+}
+
+.info{
+    display: flex;
+    max-width: 400px;
+    margin-left: 20px;
+    left: 48%;
+top: 45%;
+    color: blueviolet;  
+}
