@@ -2,11 +2,11 @@
     display: flex;
     justify-content: space-between;
     margin: 150px;
-    color: blueviolet;
+    color: rgb(89, 0, 255);
 }
 .zaman div{
     font-size: 50px;
-    color: darkblue;
+    color: rgb(0, 139, 23);
     margin: 15px;
 }
 
@@ -15,6 +15,9 @@
     max-width: 400px;
     margin-left: 20px;
     left: 48%;
-top: 45%;
+    top: 45%;
     color: blueviolet;  
+}
+body{
+    background-color: rgb(36, 36, 56);
 }
